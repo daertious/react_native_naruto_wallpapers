@@ -10,10 +10,15 @@
 Naruto Wallpapers Plus for fans anime Naruto.
 
 To date:
+
             • Team 7: Naruto, Sasuke, Sakura, Kakashi
+            
             • Team 8: Kiba, Shino, Hinata, Kurenai
+            
             • Team 10: Shikamaru, Choji, Ino, Asuma
+            
             • Team Guy: Lee, Neji, Tenten, Might Guy
+            
             • Sand Siblings: Gaara, Kankuro, Temari
             
 Naruto Wallpapers Plus designed specifically for anime Naruto fans with some descriptions about characters.
