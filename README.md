@@ -9,7 +9,7 @@
 
 ### Description
 
-Naruto Wallpapers Plus for fans anime Naruto.
+Naruto Wallpapers Plus for fans anime Naruto. Downloading wallpapers.
 
 To date:
 
