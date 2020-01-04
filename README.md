@@ -1,6 +1,6 @@
 # apk_react_naruto_wallpapers
 
-## Wiki apk_react_naruto_wallpapers
+## Wiki
 [link](https://github.com/daertious/apk_react_naruto_wallpapers/wiki) to github wiki
 ## Download .apk
 
