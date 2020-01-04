@@ -59,3 +59,8 @@ ___
 ![image 5](/images/5.jpg)
 ___
 ![image 6](/images/6.jpg)
+___
+### Contact
+diwnore@gmail.com
+or
+[link](https://github.com/daertious/react_native_naruto_wallpapers/issues/2) to github issues
