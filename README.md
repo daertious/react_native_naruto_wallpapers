@@ -1,5 +1,7 @@
 # apk_react_naruto_wallpapers
 
+## Wiki apk_react_naruto_wallpapers
+[link](https://github.com/daertious/apk_react_naruto_wallpapers/wiki) to github wiki
 ## Download .apk
 
 [link](https://drive.google.com/open?id=1FkQtuG77Qnl1BvNisCtQDr-AF3f3T5vL) to google disk
