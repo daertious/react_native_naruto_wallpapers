@@ -31,5 +31,15 @@ This app is unofficial. The content in this app is not affiliated with, endorsed
 
 #### Preview
 
-![image 1](/images/1.jpg) ![image 2](/images/2.jpg) ![image 3](/images/3.jpg) ![image 4](/images/4.jpg) ![image 5](/images/5.jpg)
+
+![image 1](/images/1.jpg) 
+___
+![image 2](/images/2.jpg)
+___
+![image 3](/images/3.jpg)
+___
+![image 4](/images/4.jpg)
+___
+![image 5](/images/5.jpg)
+___
 ![image 6](/images/6.jpg)
