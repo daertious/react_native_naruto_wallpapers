@@ -27,6 +27,24 @@ Naruto Wallpapers Plus designed specifically for anime Naruto fans with some des
 
 This app is unofficial. The content in this app is not affiliated with, endorsed, sponsored, or specifically approved by any company. 
 
+    "expo": "^35.0.0",
+    "expo-file-system": "~7.0.0",
+    "expo-permissions": "~7.0.0",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
+    "react-native-fast-image": "^7.0.2",
+    "react-native-fast-image-expo": "0.0.5",
+    "react-native-gesture-handler": "~1.3.0",
+    "react-native-image-progress": "^1.1.1",
+    "react-native-progress": "^4.0.1",
+    "react-native-reanimated": "~1.2.0",
+    "react-native-screens": "~1.0.0-alpha.23",
+    "react-native-web": "^0.11.7",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^2.3.1",
+    "react-navigation-stack": "^1.10.3"
+
 #### Preview
 
 
