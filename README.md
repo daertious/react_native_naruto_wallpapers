@@ -25,8 +25,6 @@ To date:
             
 Naruto Wallpapers Plus designed specifically for anime Naruto fans with some descriptions about characters.
 
-Thank you!
-
 This app is unofficial. The content in this app is not affiliated with, endorsed, sponsored, or specifically approved by any company. 
 
 #### Preview
